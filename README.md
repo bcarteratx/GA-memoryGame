@@ -1,2 +1,2 @@
-# GA-memoryGame
+# wdi-fundamentals-memorygame
 Developer Tools Project
