@@ -86,6 +86,17 @@ main {
   margin: 35px auto;
 }
 
+#reset {
+  background-color: #F15B31;
+  font-size: 15px;
+  letter-spacing: 0.05em;
+  font-weight: 600;
+  color: white;
+  text-transform: uppercase;
+  padding: 10px 15px;
+  border-radius: 5px;
+  margin: 30px;
+}
 
 /* =============================
 GAME BOARD
